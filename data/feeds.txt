@@ -1,1 +1,3 @@
-https://feeds.example.com/rss
+https://www.intoxianime.com/feed/
+https://www.jbox.com.br/feed/
+https://www.animeunited.com.br/feed/
