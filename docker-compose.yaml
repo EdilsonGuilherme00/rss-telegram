@@ -4,8 +4,8 @@ services:
     container_name: rss-telegram
     restart: unless-stopped
     environment:
-      - TELEGRAM_BOT_TOKEN=your_bot_token_here
-      - TELEGRAM_CHAT_ID=your_chat_id_here
+      - TELEGRAM_BOT_TOKEN=8531696383:AAH2jPw3BkfJg5yqUz1xY2NvPHq-TEHHkFA
+      - TELEGRAM_CHAT_ID=-1003681679717
       - INCLUDE_DESCRIPTION=true
       - DISABLE_NOTIFICATION=true
       - CHECK_INTERVAL=3600
